@@ -5,3 +5,5 @@ Information about Homing Pigeon Pattern and Marubozu Pattern :
 
 http://journals.sagepub.com/doi/full/10.1177/2158244017736799
 
+
+These pieces of code can help you in coding Expert Advisor that search for realtime Japanese Candlestick Patterns or past Japanese Candlestick Patterns on all available timeframes in Metatrader 5.
