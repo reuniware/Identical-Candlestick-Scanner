@@ -1,5 +1,5 @@
 //+-----------------------------------------------------------------+
-//|                                      SameCandlestickScanner.mq5 |
+//|                                      HomingPigeon_Marubozu.mq5 |
 //|                      Copyright 2018, InvestDataSystems@Yahoo.Com|
 //|                            https://ichimoku-expert.blogspot.com |
 //+-----------------------------------------------------------------+
